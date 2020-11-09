@@ -49,6 +49,10 @@ em breve...
 
 ## Produtos bibliográficos
 
+Preview | Produto | Ano
+-----------|:------------------------------------------------------|:----- 
+[<img src="imagens/aerea_ferrugem.png" width="200">](https://www.grupocultivar.com.br/noticias/uso-de-imagens-digitais-para-deteccao-da-ferrugem-asiatica-na-lavoura) | Artigo técnico. Uso de imagens digitais para detecção da ferrugem-asiática na lavoura. [Descrição completa](). | 2020
+
 
 ----
 
