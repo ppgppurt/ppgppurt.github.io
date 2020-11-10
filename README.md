@@ -67,4 +67,4 @@ Preview | Produto | Ano
 ----
 
 ## Contato
-E-mail: ppgpp.urt@ifgoiano.edu.br
+E-mail: <ppgpp.urt@ifgoiano.edu.br>
