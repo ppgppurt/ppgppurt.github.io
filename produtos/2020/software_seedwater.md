@@ -1,6 +1,6 @@
 **Título**: seedwater: models for drying and soaking kinetics of seeds (version 1.0)
 
-**Autor(es)**: Anderson Rodrigo da Silva
+**Autor(es)**: Anderson Rodrigo da Silva [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-2518-542X)
 
 **Tipo**: Software
 
