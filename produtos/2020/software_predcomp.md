@@ -1,6 +1,6 @@
 **Título**: PredComp: Predition of Soil Compaction Induced by Agricultural Field Traffic
 
-**Autor(es)**: Renato Paiva de Lima, Anderson Rodrigo da Silva
+**Autor(es)**: Renato Paiva de Lima, Anderson Rodrigo da Silva [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-2518-542X)
 
 **Tipo**: Software
 
