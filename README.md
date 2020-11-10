@@ -32,7 +32,7 @@ Preview | Produto | Ano
 [<img src="imagens/biotools.png" width="200">](https://cran.r-project.org/package=biotools) | _biotools_: Tools for Biometry and Applied Statistics in Agricultural Science. [Descrição completa](produtos/2017/software_biotools.md). | 2017
 [<img src="imagens/seedwater.png" width="200">](https://cran.r-project.org/package=seedwater) | _seedwater_: models for drying and soaking kinetics of seeds (version 1.0). [Descrição completa](produtos/2020/software_seedwater.md). Registro INPI: BR512019000731-0 | 2019
 [<img src="imagens/predcomp.png" width="200">](https://appsoilphysics.shinyapps.io/PredComp) | _PredComp_: Predition of Soil Compaction Induced by Agricultural Field Traffic. [Descrição completa](produtos/2020/software_predcomp.md). Registro INPI: BR512020001301-5 | 2020
-[<img src="imagens/infest.png" width="200">](https://arsilva.shinyapps.io/infest/) | _INFEST_: Insect feeding behavior statistics. [Descrição completa](produtos/2020/). | 2020
+[<img src="imagens/infest.png" width="200">](https://arsilva.shinyapps.io/infest/) | _INFEST_: Insect feeding behavior statistics. [Descrição completa](produtos/2020/software_infest.md). | 2020
 
 ----
 
