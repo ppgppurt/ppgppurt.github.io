@@ -41,7 +41,7 @@ Preview | Produto | Ano
 Preview | Produto | Ano
 -----------|:------------------------------------------------------|:----- 
 [<img src="imagens/pulverizador.jpeg" width="200">]() | Processo, sistema de pulverização por nebulização de calda com frequência ultrassom e indução eletrostática e usos. [Descrição completa](). Registro INPI: BR102018074987-0 | 2018
-[<img src="imagens/amostrador_solo.jpeg" width="200">]() | Sistema multi-operacional de acionamento remoto acoplável a veículo aéreo não tripulado e usos. [Descrição completa](). Registro INPI: BR102018012008-5 | 2018
+[<img src="imagens/amostrador_solos.jpeg" width="200">]() | Sistema multi-operacional de acionamento remoto acoplável a veículo aéreo não tripulado e usos. [Descrição completa](). Registro INPI: BR102018012008-5 | 2018
 
 ----
 
