@@ -20,7 +20,7 @@
 
 Preview | Produto | Ano
 -----------|:------------------------------------------------------|:----- 
-[<img src="imagens/bhrp.png" width="250">](https://ppgcrenacurt.github.io/Bacia_Hidrografica_Rio_Preto/) | MAPA INTERATIVO DA CAPACIDADE DE SUPORTE DE CARGA DE SOLOS DA BACIA HIDROGRÁFICA DO RIO PRETO - BA. Prod. técnica resultado da dissertação do discente Ítalo Rômulo Mendes de Souza, defendida em 2020 no PPG-CRENAC do IF Goiano, campus Urutaí. [Descrição completa](produtos/2020/mapa_bhrp.md). [DOI:10.33837/cr.map.0120](https://doi.org/10.33837/cr.map.0120) | 2020
+[<img src="imagens/bhrp.png" width="250">](https://ppgcrenacurt.github.io/Bacia_Hidrografica_Rio_Preto/) | (apenas exemplo!) MAPA INTERATIVO DA CAPACIDADE DE SUPORTE DE CARGA DE SOLOS DA BACIA HIDROGRÁFICA DO RIO PRETO - BA. Prod. técnica resultado da dissertação do discente Ítalo Rômulo Mendes de Souza, defendida em 2020 no PPG-CRENAC do IF Goiano, campus Urutaí. [Descrição completa](produtos/2020/mapa_bhrp.md). [DOI:10.33837/cr.map.0120](https://doi.org/10.33837/cr.map.0120) | 2020
 
 
 ----
@@ -32,6 +32,7 @@ Preview | Produto | Ano
 [<img src="imagens/biotools.png" width="200">](https://cran.r-project.org/package=biotools) | _biotools_: Tools for Biometry and Applied Statistics in Agricultural Science. [Descrição completa](). | 2017
 [<img src="imagens/seedwater.png" width="200">](https://cran.r-project.org/package=seedwater) | _seedwater_: models for drying and soaking kinetics of seeds (version 1.0). [Descrição completa](produtos/2020/software_seedwater.md). Registro INPI: BR512019000731-0 | 2019
 [<img src="imagens/predcomp.png" width="200">](https://appsoilphysics.shinyapps.io/PredComp) | _PredComp_: Predition of Soil Compaction Induced by Agricultural Field Traffic. [Descrição completa](produtos/2020/software_predcomp.md). Registro INPI: BR512020001301-5 | 2020
+[<img src="imagens/infest.png" width="200">](https://arsilva.shinyapps.io/infest/) | _INFEST_: Insect feeding behavior statistics. [Descrição completa](produtos/2020/). | 2020
 
 ----
 
@@ -40,7 +41,7 @@ Preview | Produto | Ano
 Preview | Produto | Ano
 -----------|:------------------------------------------------------|:----- 
 [<img src="imagens/pulverizador.jpeg" width="200">]() | Processo, sistema de pulverização por nebulização de calda com frequência ultrassom e indução eletrostática e usos. [Descrição completa](). Registro INPI: BR102018074987-0 | 2018
-[<img src="imagens/" width="200">]() | Sistema multi-operacional de acionamento remoto acoplável a veículo aéreo não tripulado e usos. [Descrição completa](). Registro INPI: BR102018012008-5 | 2018
+[<img src="imagens/amostrador_solo.jpeg" width="200">]() | Sistema multi-operacional de acionamento remoto acoplável a veículo aéreo não tripulado e usos. [Descrição completa](). Registro INPI: BR102018012008-5 | 2018
 
 ----
 
